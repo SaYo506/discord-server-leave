@@ -1,4 +1,4 @@
-<img width="471" height="438" alt="image" src="https://github.com/user-attachments/assets/5de15717-9e20-4e38-93dc-284d8d2e1286" />   
+<img width="416" height="538" alt="image" src="https://github.com/user-attachments/assets/f2b7042a-46f7-4c84-865d-af4dd2693a17" /> 
 
 # اداة الخروج من سيرفرات الديسكورد
 
