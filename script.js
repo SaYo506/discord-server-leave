@@ -1,1 +1,217 @@
-(function(_0x3fbde5,_0x3f7810){const _0x5808c6=_0xc0fb,_0x558e20=_0x3fbde5();while(!![]){try{const _0x1878c3=parseInt(_0x5808c6(0xf5))/0x1*(-parseInt(_0x5808c6(0xee))/0x2)+-parseInt(_0x5808c6(0xd3))/0x3*(parseInt(_0x5808c6(0x124))/0x4)+-parseInt(_0x5808c6(0x11b))/0x5*(-parseInt(_0x5808c6(0xd0))/0x6)+parseInt(_0x5808c6(0x10a))/0x7*(-parseInt(_0x5808c6(0xf1))/0x8)+parseInt(_0x5808c6(0xfb))/0x9*(parseInt(_0x5808c6(0x12b))/0xa)+parseInt(_0x5808c6(0xe1))/0xb+-parseInt(_0x5808c6(0x126))/0xc*(parseInt(_0x5808c6(0x12f))/0xd);if(_0x1878c3===_0x3f7810)break;else _0x558e20['push'](_0x558e20['shift']());}catch(_0x4e1e8f){_0x558e20['push'](_0x558e20['shift']());}}}(_0x12c6,0x2bdf4));const _0x51a60d=_0x7397;(function(_0x226c35,_0x3ff35f){const _0x5ef0ae=_0xc0fb,_0xf4b6ab=_0x7397,_0x4a1661=_0x226c35();while(!![]){try{const _0x2f4ac1=parseInt(_0xf4b6ab(0xf6))/0x1+-parseInt(_0xf4b6ab(0xe9))/0x2+parseInt(_0xf4b6ab(0x9c))/0x3+-parseInt(_0xf4b6ab(0xac))/0x4+parseInt(_0xf4b6ab(0xa1))/0x5*(parseInt(_0xf4b6ab(0xb1))/0x6)+-parseInt(_0xf4b6ab(0xe1))/0x7*(parseInt(_0xf4b6ab(0xb4))/0x8)+parseInt(_0xf4b6ab(0xbe))/0x9*(parseInt(_0xf4b6ab(0xe8))/0xa);if(_0x2f4ac1===_0x3ff35f)break;else _0x4a1661['push'](_0x4a1661['shift']());}catch(_0x3cf269){_0x4a1661[_0x5ef0ae(0x101)](_0x4a1661[_0x5ef0ae(0x123)]());}}}(_0x463d,0xcbcaa));function _0x12c6(){const _0x31009c=['icon','remove','3bbUrjs','firstChild','q-ui-loginbtn','Operation\x20completed\x20✔','DELETE','q-notif','39222UNOLoG','q-ui-progress','display','.q-guild-label','Left:\x20','createElement','push','opacity','dataset','querySelectorAll','Select\x20at\x20least\x20one\x20server!','q-discord-username','https://cdn.discordapp.com/embed/avatars/1.png','insertBefore','guild','31318lchPgs','Login\x20failed:\x20','3311182KXBJSi','src','10036440RAkYlZ','Logging\x20in...','querySelector','innerHTML','username','q-avatar','forEach','545dZCjxo','q-token-input','User','14868301AuVKXn','https://discord.com/api/v9/users/@me/guilds','</div>','1674175XsdoRb','.q-guild.selected','q-ui-leavebtn','Error\x20leaving:\x20','value','avatar','1846512fYmoCP','none','shift','4rTQBME','https://discord.com/api/v9/users/@me','1176WwFfBz','div','textContent','https://cdn.discordapp.com/avatars/','927jtHAJN','380lUMDAX','toggle','position:\x20fixed;right:\x2040px;bottom:\x2025px;color:\x20#999;font-size:\x200.75rem;font-weight:\x20600;user-select:\x20none;pointer-events:\x20none;opacity:\x200.7;z-index:\x201000000;','message','41379iMQnaT','6nRVCWk','6020776iXXvAn','531808oqRCBt','132798jaowaC','q-discord-name','q-notifs','226848ByjZzg','from','global_name','296860FurSOR','Invalid\x20token\x20or\x20failed\x20to\x20fetch\x20user\x20info','249328vUQOmK','924540RBrDzk','q-guild-list','lastChild','https://discord.com/api/v9/users/@me/guilds/','Failed\x20to\x20leave:\x20','1194512fqRTaQ','133dxSWwz','trim','length','Invalid\x20token\x20or\x20failed\x20to\x20fetch\x20guilds','appendChild','style','Login\x20successful!','<div\x20style=\x22display:flex;align-items:center;gap:13px;\x22><img\x20class=\x22q-avatar\x22\x20src=\x22https://cdn.discordapp.com/embed/avatars/2.png\x22\x20id=\x22q-avatar\x22><div><div\x20class=\x22q-name\x22\x20id=\x22q-discord-name\x22>Login\x20First\x20!</div><div\x20class=\x22q-username\x22\x20id=\x22q-discord-username\x22>@username</div></div></div><input\x20type=\x22password\x22\x20class=\x22q-token-input\x22\x20id=\x22q-token-input\x22\x20placeholder=\x22Enter\x20your\x20token\x22\x20autocomplete=\x22new-password\x22\x20name=\x22no-autofill-token\x22\x20/><div\x20class=\x22q-guild-list\x22\x20id=\x22q-guild-list\x22></div><button\x20class=\x22q-login-btn\x22\x20id=\x22q-ui-loginbtn\x22>Login</button><button\x20class=\x22q-leave-btn\x22\x20id=\x22q-ui-leavebtn\x22\x20style=\x22display:none;\x22>Leave\x20Selected</button><div\x20class=\x22q-progress-bar\x22\x20id=\x22q-ui-progressbar\x22><div\x20class=\x22q-progress-value\x22\x20id=\x22q-ui-progress\x22></div></div>','status','round','<img\x20class=\x22q-guild-icon\x22\x20src=\x22','\x22><div\x20class=\x22q-guild-label\x22>','12962HfALzR','innerText','width','96aVlmsL','getElementById'];_0x12c6=function(){return _0x31009c;};return _0x12c6();}const _0x5d013f=_0x1553;(function(_0x3d187a,_0x38fca5){const _0x3e565a=_0x7397,_0x2c6f62=_0x1553,_0x49026a=_0x3d187a();while(!![]){try{const _0x1d57c6=-parseInt(_0x2c6f62(0x13a))/0x1+parseInt(_0x2c6f62(0x171))/0x2+parseInt(_0x2c6f62(0x140))/0x3+parseInt(_0x2c6f62(0x143))/0x4+parseInt(_0x2c6f62(0x14b))/0x5+parseInt(_0x2c6f62(0x138))/0x6+-parseInt(_0x2c6f62(0x16f))/0x7*(parseInt(_0x2c6f62(0x146))/0x8);if(_0x1d57c6===_0x38fca5)break;else _0x49026a[_0x3e565a(0xe3)](_0x49026a[_0x3e565a(0xbf)]());}catch(_0x153391){_0x49026a[_0x3e565a(0xe3)](_0x49026a[_0x3e565a(0xbf)]());}}}(_0x29c6,0xf117a),(document[_0x5d013f(0x14a)](_0x51a60d(0xd3))?.[_0x5d013f(0x17c)](),document[_0x51a60d(0xed)](_0x5d013f(0x156))?.[_0x5d013f(0x17c)]()));const e=document[_0x5d013f(0x174)](_0x5d013f(0x158));e[_0x5d013f(0x15b)]=_0x5d013f(0x176),document[_0x5d013f(0x16d)][_0x5d013f(0x17b)](e);const t=document[_0x5d013f(0x174)](_0x51a60d(0xc4));t['id']=_0x5d013f(0x184),t[_0x5d013f(0x15b)]=_0x5d013f(0x159),document[_0x51a60d(0xa3)][_0x5d013f(0x17b)](t);const n=document[_0x5d013f(0x174)](_0x51a60d(0xc4));function _0xc0fb(_0x5ae7e4,_0x46549e){const _0x12c617=_0x12c6();return _0xc0fb=function(_0xc0fb46,_0x3652aa){_0xc0fb46=_0xc0fb46-0xd0;let _0x2bbf5d=_0x12c617[_0xc0fb46];return _0x2bbf5d;},_0xc0fb(_0x5ae7e4,_0x46549e);}n[_0x51a60d(0xcb)]=_0x5d013f(0x163),document[_0x51a60d(0xa3)][_0x5d013f(0x17b)](n);const r=document[_0x5d013f(0x174)](_0x5d013f(0x168));r[_0x5d013f(0x153)]=_0x5d013f(0x14d),r[_0x51a60d(0xc8)]=_0x5d013f(0x14e),document[_0x51a60d(0xa3)][_0x5d013f(0x17b)](r);function _0x29c6(){const _0x3b9884=_0xc0fb,_0x24f6a7=_0x51a60d,_0x3b9fb4=[_0x24f6a7(0xf0),_0x24f6a7(0xcc),_0x3b9884(0x109),_0x24f6a7(0xd2),_0x24f6a7(0xc2),_0x3b9884(0x11a),_0x24f6a7(0xc6),_0x24f6a7(0xd4),_0x24f6a7(0xa6),_0x24f6a7(0xb2),_0x24f6a7(0xee),_0x24f6a7(0xe6),_0x24f6a7(0xaf),_0x24f6a7(0xdb),_0x24f6a7(0xa2),_0x24f6a7(0xb3),_0x24f6a7(0xc0),_0x24f6a7(0xd3),_0x24f6a7(0xd7),_0x24f6a7(0xf7),_0x3b9884(0xe5),_0x24f6a7(0xdd),_0x24f6a7(0xd9),_0x24f6a7(0xec),_0x3b9884(0x11d),_0x24f6a7(0x99),_0x24f6a7(0xa7),_0x24f6a7(0xf2),_0x24f6a7(0xde),_0x24f6a7(0xe5),_0x3b9884(0x125),_0x3b9884(0x120),_0x24f6a7(0xad),_0x24f6a7(0xef),_0x24f6a7(0xa9),_0x3b9884(0x122),_0x24f6a7(0xeb),_0x24f6a7(0xe0),_0x24f6a7(0xa4),_0x24f6a7(0xc9),_0x24f6a7(0xae),_0x24f6a7(0xaa),_0x24f6a7(0xcf),_0x3b9884(0x103),_0x24f6a7(0xa5),_0x24f6a7(0xf5),_0x24f6a7(0xc1),_0x24f6a7(0xa0),_0x3b9884(0x12d),_0x24f6a7(0xc3),_0x24f6a7(0xb7),'.png',_0x24f6a7(0x9b),_0x3b9884(0xef),_0x24f6a7(0xcb),_0x24f6a7(0xf1),_0x24f6a7(0xb9),_0x24f6a7(0xbc),_0x24f6a7(0xc8),_0x24f6a7(0x9a),_0x3b9884(0xea),_0x24f6a7(0xdc),_0x24f6a7(0xf4),_0x24f6a7(0xba),_0x24f6a7(0x9f),_0x24f6a7(0xea),_0x24f6a7(0xd0),_0x24f6a7(0xd8),_0x24f6a7(0xbb),_0x24f6a7(0xcd),_0x24f6a7(0xb0),_0x24f6a7(0xd1),'block',_0x24f6a7(0xab),_0x24f6a7(0xc4),_0x24f6a7(0xb5),_0x24f6a7(0xe7),_0x24f6a7(0xd5),_0x24f6a7(0xf3),_0x24f6a7(0xa3),_0x24f6a7(0xbd),_0x3b9884(0x118),_0x3b9884(0x112),_0x24f6a7(0x9d),_0x24f6a7(0xce)];return _0x29c6=function(){return _0x3b9fb4;},_0x29c6();}function o(_0x2642a1){const _0x5d578c=_0x51a60d,_0x5c8cb6=_0x5d013f,_0x35ada9=document[_0x5c8cb6(0x174)](_0x5c8cb6(0x168));_0x35ada9[_0x5c8cb6(0x154)]=_0x5c8cb6(0x15e),_0x35ada9[_0x5d578c(0xc7)]=_0x2642a1,n[_0x5c8cb6(0x16a)](_0x35ada9,n[_0x5c8cb6(0x189)]),n['children'][_0x5c8cb6(0x16c)]>0x3&&n[_0x5c8cb6(0x15f)][_0x5c8cb6(0x17c)](),setTimeout(()=>{const _0x33389f=_0x5c8cb6;_0x35ada9[_0x33389f(0x158)][_0x33389f(0x179)]='0';},0xdde),setTimeout(()=>{const _0x5a4b56=_0xc0fb;_0x35ada9[_0x5a4b56(0xf4)]();},0xfa0);}function a(_0x3b1a93,_0x1f4c8e){const _0x2d4d4f=_0xc0fb,_0x8e9fba=_0x51a60d,_0x4ff4de=_0x5d013f,_0x1564bb=document[_0x4ff4de(0x14a)](_0x4ff4de(0x144)),_0x40d892=document[_0x4ff4de(0x14a)](_0x4ff4de(0x15d));return!_0x1f4c8e||_0x3b1a93<0x0?(_0x1564bb[_0x4ff4de(0x158)][_0x4ff4de(0x135)]=_0x2d4d4f(0x122),void 0x0):(_0x1564bb[_0x4ff4de(0x158)][_0x4ff4de(0x135)]='',void(_0x40d892[_0x4ff4de(0x158)][_0x4ff4de(0x182)]=Math[_0x4ff4de(0x14f)](_0x3b1a93/_0x1f4c8e*0x64)+'%'),void(_0x40d892[_0x8e9fba(0xd6)]=_0x3b1a93+_0x4ff4de(0x13b)+_0x1f4c8e));}let i='';async function c(_0xdaf01d){const _0x1ad325=_0x51a60d,_0x4ef626=_0x5d013f,_0x3bc653=await fetch(_0x1ad325(0xc5),{'headers':{'Authorization':_0xdaf01d}});if(!_0x3bc653['ok'])throw new Error(_0x4ef626(0x187));return await _0x3bc653[_0x4ef626(0x177)]();}function u(_0x26694e){const _0x25fa03=_0x51a60d,_0x5ec16d=_0x5d013f;document[_0x5ec16d(0x14a)](_0x25fa03(0xb6))[_0x5ec16d(0x153)]=_0x26694e[_0x5ec16d(0x180)]||_0x26694e[_0x5ec16d(0x170)]||_0x5ec16d(0x15c),document[_0x5ec16d(0x14a)](_0x5ec16d(0x160))['innerText']='@'+(_0x26694e[_0x5ec16d(0x170)]||''),document[_0x5ec16d(0x14a)](_0x5ec16d(0x14c))[_0x5ec16d(0x152)]=_0x26694e[_0x5ec16d(0x13d)]?_0x5ec16d(0x145)+_0x26694e['id']+'/'+_0x26694e[_0x5ec16d(0x13d)]+_0x5ec16d(0x151):'https://cdn.discordapp.com/embed/avatars/2.png';}function _0x463d(){const _0x15917e=_0xc0fb,_0x31b826=[_0x15917e(0x10d),_0x15917e(0xdc),_0x15917e(0x121),_0x15917e(0xdd),_0x15917e(0xfa),'by\x20SaYo',_0x15917e(0x115),_0x15917e(0x10f),'body','q-ui-progressbar',_0x15917e(0xf2),_0x15917e(0xe6),_0x15917e(0x10e),'block',_0x15917e(0xd6),_0x15917e(0xe3),_0x15917e(0x11f),_0x15917e(0xd1),_0x15917e(0x11c),'8jrocJV',_0x15917e(0x104),_0x15917e(0xf9),'90462ONApCa',_0x15917e(0xf4),_0x15917e(0xf0),_0x15917e(0xd2),'onclick',_0x15917e(0xd4),_0x15917e(0xec),_0x15917e(0x122),'.q-notifs',_0x15917e(0xfc),'Please\x20enter\x20your\x20token!',_0x15917e(0xf7),_0x15917e(0xf3),_0x15917e(0x12a),_0x15917e(0x123),'disabled',_0x15917e(0x113),'json',_0x15917e(0xeb),_0x15917e(0x127),_0x15917e(0x119),_0x15917e(0x102),_0x15917e(0xef),'style',_0x15917e(0x129),'name','className',_0x15917e(0x100),_0x15917e(0xd5),_0x15917e(0x105),_0x15917e(0xe0),_0x15917e(0x106),_0x15917e(0x12e),'#quest-float-ui{position:fixed;top:60px;right:40px;left:auto\x20!important;width:350px;z-index:99999;font-family:\x27Segoe\x20UI\x27,Arial,sans-serif;background:#23272a;border-radius:13px;box-shadow:0\x202px\x2024px\x20#0007;padding:20px\x2015px\x2016px\x2017px;position:relative}.q-avatar{width:54px;height:54px;border-radius:100%;border:2px\x20solid\x20#5865f2}.q-name{font-size:1.15rem;font-weight:600;color:#fff}.q-username{font-size:.85rem;color:#b9bbbe;margin-top:2px}.q-token-input{width:100%;padding:8px;border:none;border-radius:8px;margin:10px\x200;font-size:1rem;box-sizing:border-box}.q-guild-list{background:#232834;border-radius:7px;padding:9px\x200\x204px\x200;min-height:74px;max-height:180px;overflow-y:auto;margin:10px\x200\x207px\x200;display:none}.q-guild{display:flex;align-items:center;gap:9px;padding:4px\x2010px;transition:background\x20.13s;border-radius:6px;cursor:pointer}.q-guild.selected{background:#5865f255}.q-guild:hover:not(.selected){background:#2a2c38}.q-guild-icon{width:32px;height:32px;border-radius:7px;background:#111}.q-guild-label{color:#fff;font-size:1rem;flex:1\x201\x200;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.q-leave-btn,.q-login-btn{width:100%;margin:10px\x200\x2010px\x200;padding:10px\x200;background:#5865f2;color:#fff;border:none;border-radius:8px;font-weight:bold;cursor:pointer;font-size:1.08rem;transition:background\x20.18s}.q-leave-btn[disabled],.q-login-btn[disabled]{background:#444a;cursor:not-allowed}.q-progress-bar{width:100%;height:8px;border-radius:5px;background:#424549;margin:12px\x200\x202px\x200;position:relative;overflow:hidden;display:none}.q-progress-value{height:100%;background:#57f287;border-radius:5px;transition:width\x20.3s}.q-notifs{position:fixed;top:24px;right:38px;display:flex;flex-direction:column;align-items:flex-end;z-index:100001}.q-notif{background:#32353b;color:#fff;padding:10px\x2019px;border-radius:8px;margin-bottom:9px;box-shadow:0\x202px\x2010px\x20#0003;font-size:.97em;min-width:160px;opacity:0;animation:slidein\x20.27s\x20forwards}@keyframes\x20slidein{to{opacity:1;transform:translateY(0)}from{opacity:0;transform:translateY(-18px)}}::-webkit-scrollbar{width:7px}::-webkit-scrollbar-thumb{background:#222;border-radius:5px}','quest-float-ui','q-guild',_0x15917e(0x11e),'title','classList',_0x15917e(0xfe),_0x15917e(0xf6),_0x15917e(0xed),_0x15917e(0xd8),_0x15917e(0x111),_0x15917e(0xdf),'231929etOKoV',_0x15917e(0xd7),'1826920sRvniP',_0x15917e(0xe2),_0x15917e(0x10b),'push',_0x15917e(0xda),'\x20/\x20',_0x15917e(0x107),_0x15917e(0x108),_0x15917e(0xd9),_0x15917e(0x10c),_0x15917e(0xde),_0x15917e(0x116),_0x15917e(0xfd),_0x15917e(0x110),'https://cdn.discordapp.com/icons/',_0x15917e(0x12c),_0x15917e(0xe8),_0x15917e(0xff),_0x15917e(0xf8),_0x15917e(0xe4),_0x15917e(0x117),'1075720rLLJYs',_0x15917e(0xdb),_0x15917e(0x128),'Failed\x20to\x20load\x20guilds:\x20',_0x15917e(0xe9)];return _0x463d=function(){return _0x31b826;},_0x463d();}async function d(_0x881472){const _0x2b0512=_0x51a60d,_0x3525b1=_0x5d013f,_0x4224e7=await fetch(_0x3525b1(0x13c),{'headers':{'Authorization':_0x881472}});if(!_0x4224e7['ok'])throw new Error(_0x2b0512(0xe4));return await _0x4224e7[_0x3525b1(0x177)]();}async function s(_0x376da7){const _0x2744fe=_0xc0fb,_0x5746c0=_0x51a60d,_0xa2019c=_0x5d013f;let _0x7982e6;try{_0x7982e6=await c(_0x376da7);}catch(_0x33fca4){o(_0xa2019c(0x137)+_0x33fca4[_0xa2019c(0x165)]);return;}const _0x5e4d7b=document[_0xa2019c(0x14a)](_0x5746c0(0x9e));_0x5e4d7b[_0xa2019c(0x15b)]='',_0x7982e6[_0x2744fe(0x114)](_0x551f06=>{const _0x667967=_0x5746c0,_0x399196=_0xa2019c,_0x1dd0cb=document[_0x399196(0x174)](_0x399196(0x168));_0x1dd0cb[_0x399196(0x154)]=_0x399196(0x17a),_0x1dd0cb[_0x399196(0x149)][_0x399196(0x175)]=_0x551f06['id'],_0x1dd0cb[_0x667967(0xb5)]=function(){const _0x1b44d2=_0x399196;_0x1dd0cb[_0x1b44d2(0x185)][_0x1b44d2(0x13f)]('selected');},_0x1dd0cb[_0x399196(0x15b)]=_0x399196(0x150)+(_0x551f06[_0x399196(0x16e)]?_0x399196(0x17d)+_0x551f06['id']+'/'+_0x551f06[_0x399196(0x16e)]+_0x399196(0x151):_0x399196(0x17e))+_0x667967(0xda)+_0x551f06[_0x667967(0xca)]+_0x399196(0x178),_0x5e4d7b[_0x399196(0x17b)](_0x1dd0cb);}),document['getElementById'](_0x2744fe(0xdd))[_0xa2019c(0x158)][_0xa2019c(0x135)]=_0x5746c0(0xa8);}function _0x1553(_0x18abd5,_0x48c316){const _0x450b9e=_0x29c6();return _0x1553=function(_0x29e523,_0xbaed79){_0x29e523=_0x29e523-0x135;let _0x35f258=_0x450b9e[_0x29e523];return _0x35f258;},_0x1553(_0x18abd5,_0x48c316);}function _0x7397(_0x3f97f1,_0x5d63f5){const _0x430e07=_0x463d();return _0x7397=function(_0x3927af,_0x5f30d7){_0x3927af=_0x3927af-0x99;let _0x17364d=_0x430e07[_0x3927af];return _0x17364d;},_0x7397(_0x3f97f1,_0x5d63f5);}async function l(){const _0x2116cd=_0xc0fb,_0x13fc17=_0x51a60d,_0x141ae4=_0x5d013f,_0xa8f54=document[_0x13fc17(0xa5)](_0x141ae4(0x142)),_0x27aa2b=_0xa8f54[_0x141ae4(0x167)][_0x141ae4(0x147)]();if(!_0x27aa2b)return void o(_0x141ae4(0x162));o(_0x141ae4(0x181));try{const _0x1c5ad6=await d(_0x27aa2b);u(_0x1c5ad6),await s(_0x27aa2b),_0x1c5ad6[_0x13fc17(0xc8)][_0x141ae4(0x135)]=_0x141ae4(0x141),document[_0x2116cd(0xf2)](_0x141ae4(0x157))[_0x141ae4(0x158)][_0x141ae4(0x135)]=_0x13fc17(0xb8),document[_0x141ae4(0x14a)](_0x2116cd(0x11d))[_0x2116cd(0xe7)][_0x141ae4(0x135)]=_0x141ae4(0x166),i=_0x27aa2b,o(_0x141ae4(0x173));}catch(_0x4c3208){o(_0x13fc17(0xe2)+_0x4c3208[_0x141ae4(0x165)]);}}document[_0x5d013f(0x14a)](_0x5d013f(0x157))[_0x5d013f(0x169)]=l,document[_0x5d013f(0x14a)](_0x5d013f(0x136))[_0x5d013f(0x169)]=async function(){const _0x447e1e=_0x51a60d,_0x5ace99=_0x5d013f,_0x3aed61=Array[_0x447e1e(0xdf)](document[_0x5ace99(0x17f)](_0x5ace99(0x13e)));if(!_0x3aed61[_0x5ace99(0x16c)])return void o(_0x5ace99(0x172));this[_0x5ace99(0x183)]=!0x0;let _0xcd5e92=0x0;for(let _0x50b0d1=0x0;_0x50b0d1<_0x3aed61[_0x5ace99(0x16c)];_0x50b0d1++){const _0x2a21a4=_0x3aed61[_0x50b0d1],_0xbe8a5d=_0x2a21a4[_0x5ace99(0x149)][_0x5ace99(0x175)],_0x2c2c22=_0x2a21a4[_0x447e1e(0xed)](_0x5ace99(0x161))[_0x5ace99(0x186)];_0x2a21a4[_0x447e1e(0xc8)][_0x5ace99(0x179)]='.4';try{const _0x2941a0=await fetch(_0x5ace99(0x188)+_0xbe8a5d,{'method':_0x5ace99(0x164),'headers':{'Authorization':i}});0xcc===_0x2941a0[_0x5ace99(0x15a)]?(o(_0x5ace99(0x155)+_0x2c2c22),_0x2a21a4[_0x5ace99(0x17c)]()):(o(_0x5ace99(0x148)+_0x2c2c22),_0x2a21a4[_0x447e1e(0xc8)][_0x5ace99(0x179)]='1');}catch{o(_0x5ace99(0x16b)+_0x2c2c22),_0x2a21a4[_0x5ace99(0x158)][_0x5ace99(0x179)]='1';}_0xcd5e92++,a(_0xcd5e92,_0x3aed61[_0x5ace99(0x16c)]),await new Promise(_0x2d9e71=>setTimeout(_0x2d9e71,0x514));}o(_0x5ace99(0x139)),this[_0x5ace99(0x183)]=!0x1,a(-0x1,0x1);};
+document.getElementById('quest-float-ui')?.remove();
+document.querySelector('.q-notifs')?.remove();
+
+const style = document.createElement('style');
+style.innerHTML = `
+#quest-float-ui { position:fixed;top:60px;right:40px;width:350px;z-index:99999;font-family:'Segoe UI',Arial,sans-serif;background:#23272a;border-radius:13px;box-shadow:0 2px 24px #0007;padding:20px 15px 16px 17px;}
+.q-avatar { width:54px;height:54px;border-radius:100%;border:2px solid #5865f2;}
+.q-name { font-size:1.15rem;font-weight:600;color:#fff;}
+.q-username { font-size:0.85rem;color:#b9bbbe;margin-top:2px;}
+.q-token-input {width:100%;padding:8px;border:none;border-radius:8px;margin:10px 0;font-size:1rem;box-sizing:border-box;}
+.q-guild-list{background:#232834;border-radius:7px;padding:9px 0 4px 0;min-height:74px;max-height:180px;overflow-y:auto;margin:10px 0 7px 0;display:none;}
+.q-guild{display:flex;align-items:center;gap:9px;padding:4px 10px;transition:background .13s;border-radius:6px;cursor:pointer;}
+.q-guild.selected{background:#5865f255;}
+.q-guild:hover:not(.selected){background:#2a2c38;}
+.q-guild-icon{width:32px;height:32px;border-radius:7px;background:#111;}
+.q-guild-label{color:#fff;font-size:1rem;flex:1 1 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.q-leave-btn, .q-login-btn { width:100%;margin:10px 0 10px 0;padding:10px 0;background:#5865f2;color:#fff;border:none;border-radius:8px;font-weight:bold;cursor:pointer;font-size:1.08rem;transition:background .18s;}
+.q-leave-btn[disabled], .q-login-btn[disabled]{background:#444a;cursor:not-allowed;}
+.q-progress-bar{width:100%;height:8px;border-radius:5px;background:#424549;margin:12px 0 2px 0;position:relative;overflow:hidden;display:none;}
+.q-progress-value{height:100%;background:#57f287;border-radius:5px;transition:width .3s;}
+.q-notifs{position:fixed;top:24px;right:38px;display:flex;flex-direction:column;align-items:flex-end;z-index:100001;}
+.q-notif{background:#32353b;color:#fff;padding:10px 19px;border-radius:8px;margin-bottom:9px;box-shadow:0 2px 10px #0003;font-size:0.97em;min-width:160px;opacity:0;animation:slidein .27s forwards;}
+@keyframes slidein {to{opacity:1;transform:translateY(0);}from{opacity:0;transform:translateY(-18px);}}
+::-webkit-scrollbar{width:7px;}
+::-webkit-scrollbar-thumb{background:#222;border-radius:5px;}
+`;
+document.body.appendChild(style);
+
+const floatUI = document.createElement('div');
+floatUI.id = 'quest-float-ui';
+floatUI.innerHTML = `
+  <div style="display:flex;align-items:center;gap:13px;">
+    <img class="q-avatar" src="https://cdn.discordapp.com/embed/avatars/2.png" id="q-avatar">
+    <div>
+      <div class="q-name" id="q-discord-name">Login First !</div>
+      <div class="q-username" id="q-discord-username">@username</div>
+    </div>
+  </div>
+  <input type="password" class="q-token-input" id="q-token-input" placeholder="Enter your token" autocomplete="new-password" name="no-autofill-token" />
+  <div class="q-guild-list" id="q-guild-list"></div>
+  <button class="q-login-btn" id="q-ui-loginbtn">Login</button>
+  <button class="q-leave-btn" id="q-ui-leavebtn" style="display:none;">Leave Selected</button>
+  <div class="q-progress-bar" id="q-ui-progressbar">
+    <div class="q-progress-value" id="q-ui-progress"></div>
+  </div>
+`;
+
+const notifArea = document.createElement('div');
+notifArea.className = 'q-notifs';
+
+document.body.appendChild(floatUI);
+document.body.appendChild(notifArea);
+
+const credits = document.createElement('div');
+credits.innerText = 'by SaYo';
+credits.style = `
+  position: fixed;
+  right: 40px;
+  bottom: 25px;
+  color: #999;
+  font-size: 0.75rem;
+  font-weight: 600;
+  user-select: none;
+  pointer-events: none;
+  opacity: 0.7;
+  z-index: 1000000;
+`;
+document.body.appendChild(credits);
+
+function qNotif(msg) {
+  const d = document.createElement('div');
+  d.className = 'q-notif';
+  d.innerText = msg;
+  notifArea.insertBefore(d, notifArea.firstChild);
+  if (notifArea.children.length > 3) notifArea.lastChild.remove();
+  setTimeout(() => d.style.opacity = '0', 3550);
+  setTimeout(() => d.remove(), 4000);
+}
+function qProgress(val, total) {
+  const bar = document.getElementById('q-ui-progressbar');
+  const fill = document.getElementById('q-ui-progress');
+  if (!total || val < 0) {
+    bar.style.display = 'none';
+    return;
+  }
+  bar.style.display = '';
+  fill.style.width = Math.round((val / total) * 100) + '%';
+  fill.title = `${val} / ${total}`;
+}
+
+let currentToken = '';
+
+async function fetchGuilds(token) {
+  const res = await fetch('https://discord.com/api/v9/users/@me/guilds', {
+    headers: {
+      Authorization: token
+    }
+  });
+  if (!res.ok) {
+    throw new Error('Invalid token or failed to fetch guilds');
+  }
+  const guilds = await res.json();
+  return guilds;
+}
+
+function showUserInfo(u) {
+  document.getElementById('q-discord-name').innerText = u.global_name || u.username || 'User';
+  document.getElementById('q-discord-username').innerText = '@' + (u.username || '');
+  document.getElementById('q-avatar').src = u.avatar
+    ? `https://cdn.discordapp.com/avatars/${u.id}/${u.avatar}.png`
+    : "https://cdn.discordapp.com/embed/avatars/2.png";
+}
+
+async function fetchCurrentUser(token) {
+  const res = await fetch('https://discord.com/api/v9/users/@me', {
+    headers: {
+      Authorization: token
+    }
+  });
+  if (!res.ok) {
+    throw new Error('Invalid token or failed to fetch user info');
+  }
+  const user = await res.json();
+  return user;
+}
+
+async function renderGuilds(token) {
+  let guilds;
+  try {
+    guilds = await fetchGuilds(token);
+  } catch (err) {
+    qNotif('Failed to load guilds: ' + err.message);
+    return;
+  }
+  const list = document.getElementById('q-guild-list');
+  list.innerHTML = '';
+  guilds.forEach(guild => {
+    const row = document.createElement('div');
+    row.className = 'q-guild';
+    row.dataset.guild = guild.id;
+    row.onclick = function () {
+      row.classList.toggle('selected');
+    };
+    row.innerHTML = `
+      <img class="q-guild-icon" src="${guild.icon
+      ? `https://cdn.discordapp.com/icons/${guild.id}/${guild.icon}.png`
+      : 'https://cdn.discordapp.com/embed/avatars/1.png'}">
+      <div class="q-guild-label">${guild.name}</div>
+    `;
+    list.appendChild(row);
+  });
+  document.getElementById('q-guild-list').style.display = 'block';
+}
+
+async function doLogin() {
+  const tokenInput = document.getElementById('q-token-input');
+  const token = tokenInput.value.trim();
+  if (!token) {
+    qNotif('Please enter your token!');
+    return false;
+  }
+  qNotif('Logging in...');
+  try {
+    const user = await fetchCurrentUser(token);
+    showUserInfo(user);
+    await renderGuilds(token);
+    tokenInput.style.display = 'none';
+    document.getElementById('q-ui-loginbtn').style.display = 'none';
+    document.getElementById('q-ui-leavebtn').style.display = 'block';
+    currentToken = token;
+    qNotif('Login successful!');
+    return true;
+  } catch (err) {
+    qNotif('Login failed: ' + err.message);
+    return false;
+  }
+}
+
+document.getElementById('q-ui-loginbtn').onclick = doLogin;
+
+document.getElementById('q-ui-leavebtn').onclick = async function () {
+  const selectedEls = Array.from(document.querySelectorAll('.q-guild.selected'));
+  if (!selectedEls.length) {
+    qNotif('Select at least one server!');
+    return;
+  }
+  this.disabled = true;
+  let left = 0;
+  for (let i = 0; i < selectedEls.length; i++) {
+    const el = selectedEls[i];
+    const gid = el.dataset.guild;
+    const label = el.querySelector('.q-guild-label').textContent;
+    el.style.opacity = '0.4';
+    try {
+      const resp = await fetch(`https://discord.com/api/v9/users/@me/guilds/${gid}`, {
+        method: "DELETE",
+        headers: { Authorization: currentToken }
+      });
+      if (resp.status === 204) {
+        qNotif(`Left: ${label}`);
+        el.remove();
+      } else {
+        qNotif(`Failed to leave: ${label}`);
+        el.style.opacity = '1';
+      }
+    } catch {
+      qNotif(`Error leaving: ${label}`);
+      el.style.opacity = '1';
+    }
+    left++;
+    qProgress(left, selectedEls.length);
+    await new Promise(r => setTimeout(r, 1300));
+  }
+  qNotif('Operation completed ✔');
+  this.disabled = false;
+  qProgress(-1, 1);
+};
