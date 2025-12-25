@@ -13,7 +13,7 @@ style.innerHTML = `
 .q-filterbtn{background:#232834;color:#b1bad3;border:none;padding:4px 15px;border-radius:7px;cursor:pointer;font-size:1em;font-weight:500;transition:background .14s;}
 .q-filterbtn.active{background:#5865f255;color:#fff;}
 .q-search-input{width:100%;box-sizing:border-box;margin:0 0 12px 0;font-size:.99em;background:#24264a;color:#ddd;border-radius:7px;padding:6px;border:none;display:block;}
-.q-token-input {width:100%;padding:8px;border:none;border-radius:8px;margin:11px 0 2px 0;font-size:1rem;box-sizing:border-box;}
+.q-token-input {width:100%;padding:8px;border:none;border-radius:8px;margin:11px 0 6px 0;font-size:1rem;box-sizing:border-box;}
 .q-guild-list{background:#232834;border-radius:7px;padding:9px 0 4px 0;min-height:74px;max-height:180px;overflow-y:auto;margin:0 0 10px 0;display:none;}
 .q-guild{display:flex;align-items:center;gap:9px;padding:4px 10px;transition:background .13s;border-radius:6px;cursor:pointer;}
 .q-guild.selected{background:#5865f255;}
@@ -22,8 +22,20 @@ style.innerHTML = `
 .q-guild-icon{width:32px;height:32px;border-radius:7px;background:#111;}
 .q-guild-label{color:#fff;font-size:1rem;flex:1 1 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .q-guild-tag {margin-left:6px;background:#ffd70010;color:#fad02c;padding:2px 7px;font-size:.9em;border-radius:7px;font-weight:bold;}
-.q-leave-btn, .q-login-btn, .q-export-btn { width:100%;margin:10px 0 8px 0;padding:10px 0;background:#5865f2;color:#fff;border:none;border-radius:8px;font-weight:bold;cursor:pointer;font-size:1.08rem;transition:background .18s;}
-.q-leave-btn[disabled], .q-login-btn[disabled],.q-export-btn[disabled]{background:#444a;cursor:not-allowed;}
+.q-leave-btn, .q-login-btn, .q-export-btn, .q-gettoken-btn {
+  width:100%;
+  margin:10px 0 8px 0;
+  padding:10px 0;
+  background:#5865f2;
+  color:#fff;
+  border:none;
+  border-radius:8px;
+  font-weight:bold;
+  cursor:pointer;
+  font-size:1.08rem;
+  transition:background .18s;
+}
+.q-leave-btn[disabled], .q-login-btn[disabled],.q-export-btn[disabled],.q-gettoken-btn[disabled]{background:#444a;cursor:not-allowed;}
 .q-progress-bar{width:100%;height:8px;border-radius:5px;background:#424549;margin:7px 0 2px 0;position:relative;overflow:hidden;display:none;}
 .q-progress-value{height:100%;background:#57f287;border-radius:5px;transition:width .3s;}
 .q-notifs{position:fixed;top:24px;right:38px;display:flex;flex-direction:column;align-items:flex-end;z-index:100001;}
@@ -54,8 +66,9 @@ floatUI.innerHTML = `
     <input type="text" class="q-search-input" id="q-search-input" placeholder="Search server name..."/>
   </div>
   <input type="password" class="q-token-input" id="q-token-input" placeholder="Enter your token" autocomplete="new-password" name="no-autofill-token" />
-  <div class="q-guild-list" id="q-guild-list"></div>
   <button class="q-login-btn" id="q-ui-loginbtn">Login</button>
+  <button class="q-gettoken-btn" id="q-gettoken-btn">Get Token</button>
+  <div class="q-guild-list" id="q-guild-list"></div>
   <button class="q-leave-btn" id="q-ui-leavebtn" style="display:none;">Leave Selected</button>
   <button class="q-export-btn" id="q-ui-exportbtn" style="display:none;">Export Servers</button>
   <div class="q-progress-bar" id="q-ui-progressbar">
@@ -170,6 +183,7 @@ async function doLogin() {
     renderGuilds();
     tokenInput.style.display = 'none';
     document.getElementById('q-ui-loginbtn').style.display = 'none';
+    document.getElementById('q-gettoken-btn').style.display = 'none';
     document.getElementById('q-ui-leavebtn').style.display = 'block';
     document.getElementById('q-ui-exportbtn').style.display = 'block';
     currentToken = token;
@@ -233,4 +247,20 @@ document.getElementById('q-ui-exportbtn').onclick = function(){
   a.download = 'servers.txt';
   document.body.appendChild(a); a.click(); setTimeout(()=>a.remove(),400);
   qNotif('Exported!');
+};
+
+document.getElementById('q-gettoken-btn').onclick = function(){
+  try{
+    let token;
+    window.webpackChunkdiscord_app.push([[Symbol()],{},o=>{for(let e of Object.values(o.c))try{if(!e.exports||e.exports===window)continue;e.exports?.getToken&&(token=e.exports.getToken());for(let k in e.exports)e.exports?.[k]?.getToken&&"IntlMessagesProxy"!==e.exports[k][Symbol.toStringTag]&&(token=e.exports[k].getToken())}catch{}}]);
+    window.webpackChunkdiscord_app.pop();
+    if(token && typeof token==="string" && token.length>10){
+      document.getElementById('q-token-input').value = token;
+      qNotif('Token filled');
+    }else{
+      qNotif('Could not get token');
+    }
+  }catch{
+    qNotif('Error while getting token');
+  }
 };
